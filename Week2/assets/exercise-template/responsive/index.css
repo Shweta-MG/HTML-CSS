@@ -4,13 +4,9 @@
 }
 
 .responsive {
-  /* your style */
-}
-
-/* Add Media Queries
-Example: 
-@media screen and (min-width: 480px) {
+  @media screen and (min-width: 480px) {
   .responsive {
       background-color: green
-  }
-} */
+}
+}
+  
